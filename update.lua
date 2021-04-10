@@ -2,3 +2,4 @@
 [+] Mengurangi Resource Menjadi (95 Total)
 [+] Fix Bug Beberapa Resource
 [+] Remake Denda Dan Penjara
+[+] Remake Denda Dan Penjara
