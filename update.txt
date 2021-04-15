@@ -8,6 +8,7 @@
 [+] Burger Shot MLO
 [+] David PD MLO
 [+] Del Piero PD MLO
+[+] Hayes Depot MLO
 [+] Pacific Bank Update MLO
 [-] Penghapusan Tempat Penampungan
 [-] MCD MLO
