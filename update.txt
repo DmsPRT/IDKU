@@ -1,3 +1,23 @@
+[%] 16/04/2021
+
+[+] Illegal Diving Mutiara Beserta Penjualany
+[+] Menambahkan Memancing Ikan , Penyu , Hiu
+[+] Menambahkan Tempat Penjualan Disnaker Menjadi Satu Tempat 
+[+] Menambah Item Crafting Repair(Khusus Senjata)
+[+] Menambah UI Untuk Pedagang Cek Menu
+[+] Burger Shot MLO
+[+] David PD MLO
+[+] Del Piero PD MLO
+[+] Pacific Bank Update MLO
+[-] Penghapusan Tempat Penampungan
+[-] MCD MLO
+[~] Fix Penjualan Illegal (Mutiara,Ganja,Kokain,Penyu/Hiu) Secara Random Sesuai Polisi Yang On Duty
+[~] Mengganti Pedagang Dari MCD Ke Burger Shot
+[~] Log System & Core Updated
+[~] Fix Mekanik Car Status Check
+[~] Improved Inventory
+[~] Jika Nyangkut di Dispatch ketik /keluar di chat
+
 [%] 09/04/2021
 
 [+] Double Click Item Inventory Untuk Use Item
