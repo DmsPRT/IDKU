@@ -1,3 +1,17 @@
+[%] 17/04/2021
+
+[+] Menu Context
+[+] Menambah Printer Di MRPD Dan PILLBOX
+[~] Fix Mekanik Status
+[~] Rework Petani Beserta Menu Dan Craftingny
+[~] Improve Radial Menu
+[~] Rework Rampok Menjadi Lebih Simple
+[~] Fix Rumah
+[~] Fix Rusun
+[~] Scoreboard Ditambah Job Dan Di Improved
+[~] Society Fix
+[~] Balap Liar Fix
+
 [%] 16/04/2021
 
 [+] Illegal Diving Mutiara Beserta Penjualany
