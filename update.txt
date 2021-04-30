@@ -1,3 +1,26 @@
+[%] 30/04/2021
+
+[+] Part Kendaraan (Beta)
+[+] Hunting Rifle
+
+[~] Updated Core
+[~] Misc Updated
+[~] id-card Updated
+[~] id-card civ
+[~] Rework Illegal Job
+[~] Rework Hunting Side Job
+[~] Adjustment/Imrpov (a bit) Doorlock
+[~] Improve Dur
+[~] Improve ems
+[~] Improve polisi
+[~] Rework Garasi Beserta Impound
+[~] Hud Improve + Add Stress System
+[~] Rework Illegal Job
+[~] Anti Cheat
+
+[~] Improve All Resource
+[~] Jika Stress 100% hanya berkurang darah random + random waktu delayny
+
 [%] 17/04/2021
 
 [+] Menu Context
