@@ -1,3 +1,14 @@
+[%] 22/06/2021
+
+[+] Baju Add On
+[+] Penambahan Garasi Kandang Kuda + Rusun
+[~] Optimize Script
+[~] Illegal Fix
+[~] Properti Sistem Reworked
+[~] Fix Toolkit & Repair Kit
+[~] Pajak Ga Masuk Lagi Ke Pemerintah / Polisi
+[~] Fix Minor Bug
+
 [%] 30/04/2021
 
 [+] Part Kendaraan (Beta)
