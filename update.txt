@@ -1,75 +1,12 @@
-[%] 22/06/2021
+Updated
 
-[+] Baju Add On
-[+] Penambahan Garasi Kandang Kuda + Rusun
-[~] Optimize Script
-[~] Illegal Fix
-[~] Properti Sistem Reworked
-[~] Fix Toolkit & Repair Kit
-[~] Pajak Ga Masuk Lagi Ke Pemerintah / Polisi
-[~] Fix Minor Bug
-
-[%] 30/04/2021
-
-[+] Part Kendaraan (Beta)
-[+] Hunting Rifle
-
-[~] Updated Core
-[~] Misc Updated
-[~] id-card Updated
-[~] id-card civ
-[~] Rework Illegal Job
-[~] Rework Hunting Side Job
-[~] Adjustment/Imrpov (a bit) Doorlock
-[~] Improve Dur
-[~] Improve ems
-[~] Improve polisi
-[~] Rework Garasi Beserta Impound
-[~] Hud Improve + Add Stress System
-[~] Rework Illegal Job
-[~] Anti Cheat
-
-[~] Improve All Resource
-[~] Jika Stress 100% hanya berkurang darah random + random waktu delayny
-
-[%] 17/04/2021
-
-[+] Menu Context
-[+] Menambah Printer Di MRPD Dan PILLBOX
-[~] Fix Mekanik Status
-[~] Rework Petani Beserta Menu Dan Craftingny
-[~] Improve Radial Menu
-[~] Rework Rampok Menjadi Lebih Simple
-[~] Fix Rumah
-[~] Fix Rusun
-[~] Scoreboard Ditambah Job Dan Di Improved
-[~] Society Fix
-[~] Balap Liar Fix
-
-[%] 16/04/2021
-
-[+] Illegal Diving Mutiara Beserta Penjualany
-[+] Menambahkan Memancing Ikan , Penyu , Hiu
-[+] Menambahkan Tempat Penjualan Disnaker Menjadi Satu Tempat 
-[+] Menambah Item Crafting Repair(Khusus Senjata)
-[+] Menambah UI Untuk Pedagang Cek Menu
-[+] Burger Shot MLO
-[+] David PD MLO
-[+] Del Piero PD MLO
-[+] Hayes Depot MLO
-[+] Pacific Bank Update MLO
-[-] Penghapusan Tempat Penampungan
-[-] MCD MLO
-[~] Fix Penjualan Illegal (Mutiara,Ganja,Kokain,Penyu/Hiu) Secara Random Sesuai Polisi Yang On Duty
-[~] Mengganti Pedagang Dari MCD Ke Burger Shot
-[~] Log System & Core Updated
-[~] Fix Mekanik Car Status Check
-[~] Improved Inventory
-[~] Jika Nyangkut di Dispatch ketik /keluar di chat
-
-[%] 09/04/2021
-
-[+] Double Click Item Inventory Untuk Use Item
-[+] Remake Denda Dan Penjara
-[-] Mengurangi Resource Menjadi (95 Total)
-[~] Fix Bug Beberapa Resource
+Base
+-CHanged name to Devroody
+-Baseevents
+-logs
+-dpx
+-errorlog
+-lib
+-queue
+-isped
+-polyzone
